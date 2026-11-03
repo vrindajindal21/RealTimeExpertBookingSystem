@@ -8,6 +8,16 @@ test_*.docx
 # Exclude compiled minified build assets
 assets/
 
+# IDE & Editor files
+.vscode/
+.idea/
+
+# Temporary / Loose screenshots
+Screenshot (*).png
+screenshots/user_screenshots/
+screenshots/media_*
+screenshots/uploaded_media_*
+
 # Exclude unused pages & components from submission repo
 src/pages/AdminDashboard.jsx
 src/pages/StaffDashboard.jsx

@@ -487,6 +487,13 @@
       // Initial Renders
       renderTimeSlots();
       updateSummaryDisplay();
+
+      if (urlParams.get('modal') === '1') {
+        document.getElementById('modal-booking-id').textContent = 'BK-2026-9041';
+        document.getElementById('modal-expert-name').textContent = expert.name;
+        document.getElementById('modal-datetime-slot').textContent = 'Today · 04:00 PM - 05:00 PM';
+        document.getElementById('booking-success-modal').classList.add('is-open');
+      }
     });
   </script>
 </body>

@@ -297,11 +297,11 @@ const LandingPage = () => {
           min-height: 80vh;
           display: grid;
           grid-template-columns: 1.1fr 0.9fr;
-          gap: 60px;
+          gap: 80px;
           align-items: center;
           max-width: 1280px;
           margin: 0 auto;
-          padding: 80px 40px;
+          padding: 170px 48px 110px;
           position: relative;
         }
         .hero-blur-1 {
@@ -321,7 +321,7 @@ const LandingPage = () => {
           display: inline-flex; align-items: center; gap: 8px;
           padding: 8px 20px; border-radius: 100px;
           font-size: 0.82rem; font-weight: 700; color: var(--text-muted);
-          margin-bottom: 24px;
+          margin-bottom: 30px;
         }
         .ticker-dot { width: 8px; height: 8px; background: #6366f1; border-radius: 50%; flex-shrink: 0; animation: pulse 2s infinite; }
 
@@ -386,7 +386,7 @@ const LandingPage = () => {
 
         /* Pulse Stats */
         .pulse-stats-section {
-          max-width: 1280px; margin: -40px auto 60px auto;
+          max-width: 1280px; margin: 10px auto 80px auto;
           padding: 0 40px; position: relative; z-index: 10;
         }
         .pulse-grid {
@@ -486,7 +486,7 @@ const LandingPage = () => {
         @keyframes pulse { 0% { opacity: 0.4; } 50% { opacity: 1; } 100% { opacity: 0.4; } }
 
         @media (max-width: 1024px) {
-          .hero { grid-template-columns: 1fr; padding: 60px 24px; }
+          .hero { grid-template-columns: 1fr; padding: 110px 24px 60px; }
           .dashboard-preview { display: none; }
           .industries-grid { grid-template-columns: repeat(2, 1fr); }
           .features-grid-big { grid-template-columns: 1fr; }

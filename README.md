@@ -65,3 +65,18 @@ Double-click **`start_website.bat`** in the project folder. It will launch the l
 python server.py
 ```
 Open **`http://localhost:3000`** in Google Chrome or Microsoft Edge.
+
+---
+
+## 📊 Synopsis Presentation (Milestone 1)
+
+The complete 17-slide academic evaluation presentation has been created adhering strictly to the **KIET MCA Synopsis Presentation Format** and includes high-resolution screenshots generated directly from the live DOM:
+
+- **Primary Final Presentation:** `Front End Web Development Synopsis Presentation final.pptx`
+- **Architecture & Screenshots Directory:** [`screenshots/`](screenshots/)
+  - `1_home_page.png` — Landing Page, Hero & Platform Architecture Preview
+  - `dfd_level_0.png` — DFD Level 0 Context Diagram
+  - `dfd_level_1.png` — DFD Level 1 Modular Data Flow
+  - `system_flowchart.png` — System Flowchart
+  - `use_case_diagram.png` — Use Case Diagram
+
