@@ -72,7 +72,7 @@ Open **`http://localhost:3000`** in Google Chrome or Microsoft Edge.
 
 The complete 17-slide academic evaluation presentation has been created adhering strictly to the **KIET MCA Synopsis Presentation Format** and includes high-resolution screenshots generated directly from the live DOM:
 
-- **Primary Final Presentation:** `Front End Web Development Synopsis Presentation final.pptx`
+- **Primary Final Presentation:** [`Front End Web Development Synopsis Presentation final.pptx`](Front%20End%20Web%20Development%20Synopsis%20Presentation%20final.pptx)
 - **Architecture & Screenshots Directory:** [`screenshots/`](screenshots/)
   - `1_home_page.png` — Landing Page, Hero & Platform Architecture Preview
   - `dfd_level_0.png` — DFD Level 0 Context Diagram

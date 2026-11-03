@@ -1,5 +1,6 @@
 # Presentations & Synopsis Documents
 *.pptx
+!Front End Web Development Synopsis Presentation final.pptx
 *.docx
 *.pdf
 test_*.pptx
